@@ -4,6 +4,7 @@
 *.dll
 *.so
 *.dylib
+/functionbeat-tester
 
 # Test binary, built with `go test -c`
 *.test
